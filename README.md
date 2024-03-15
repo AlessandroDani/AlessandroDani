@@ -5,7 +5,6 @@ FullStack Developer
 ### System Engineering student and junior developer. Passionate about problem-solving and crafting well-designed software solutions.
 
 * 🌍  I'm based in Colombia
-* 🖥️  See my portfolio at [MyPortafolio](http://https://portafolio-five-dun.vercel.app/) (still in progress)
 * ✉️  You can contact me at [alessandrodaniele07@gmail.com](mailto:alessandrodaniele07@gmail.com)
 * 🧠  I'm learning Django
 
@@ -18,7 +17,7 @@ FullStack Developer
 
 ### My latest posts
 <p> 🚀
-<a href=" https://www.linkedin.com/feed/update/urn:li:activity:7105400206824747009/" target="_blank" rel="noreferrer"><strong>2023 ICPC Colombia - XXXVII National Programming Marathon ACIS REDIS</strong></a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7105400206824747009/" target="_blank" rel="noreferrer"><strong>2023 ICPC Colombia - XXXVII National Programming Marathon ACIS REDIS</strong></a>
 <br>Representing Francisco de Paula Santander University at the 2023 ICPC Colombia - XXXVII National Programming Marathon ACIS REDIS</p>
 
 <p> ⭐
