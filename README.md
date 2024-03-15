@@ -17,11 +17,16 @@ FullStack Developer
 </p>
 
 ### My latest posts
-* [2023 ICPC Colombia - XXXVII National Programming Marathon ACIS REDIS](https://www.linkedin.com/feed/update/urn:li:activity:7105400206824747009/)
-<br>Representing Francisco de Paula Santander University at the 2023 ICPC Colombia - XXXVII National Programming Marathon ACIS REDIS
+<p> 🚀
+<a href=" https://www.linkedin.com/feed/update/urn:li:activity:7105400206824747009/" target="_blank" rel="noreferrer"><strong>2023 ICPC Colombia - XXXVII National Programming Marathon ACIS REDIS</strong></a>
+<br>Representing Francisco de Paula Santander University at the 2023 ICPC Colombia - XXXVII National Programming Marathon ACIS REDIS</p>
 
-* [Latin American Regional Programming Marathon 2023](https://www.linkedin.com/feed/update/urn:li:activity:7124913572958134272/)
+<p> ⭐
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7124913572958134272/" target="_blank" rel="noreferrer"><strong>Latin American Regional Programming Marathon 2023</strong></a>
 <br>Proud to compete at ICPC Latin America Regional Contest 2023 with colleagues from Francisco de Paula Santander University.
+</p>
+
+
 
 
 ### Socials
