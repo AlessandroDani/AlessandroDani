@@ -6,7 +6,7 @@ FullStack Developer
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [alessandrodaniele07@gmail.com](mailto:alessandrodaniele07@gmail.com)
-* 🧠  I'm learning Spring Boot
+* 🧠  I'm learning React
 
 ### Things I code with
 
