@@ -5,7 +5,6 @@ FullStack Developer
 ### System Engineering student and junior developer. Passionate about problem-solving and crafting well-designed software solutions.
 
 * 🌍  I'm based in Colombia
-* ✉️  You can contact me at [alessandrodaniele07@gmail.com](mailto:alessandrodaniele07@gmail.com)
 * 🧠  I'm learning React
 
 ### Things I code with
