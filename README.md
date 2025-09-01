@@ -3,57 +3,15 @@
  I’m a 23-year-old Systems Engineer and Full Stack Developer from Colombia
 
 ### Tech Stack
+<div align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
+</div>
 
-
-<p align="left">
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
-    width="36"
-    height="36"
-    alt="MongoDB" />
-</a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
-    width="36"
-    height="36"
-    alt="Express" />
-</a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
-    width="36"
-    height="36"
-    alt="React" />
-</a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
-    width="36"
-    height="36"
-    alt="NodeJS" />
-</a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
-    width="36"
-    height="36"
-    alt="Python" />
-</a>
-<a
-  href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"
-  target="_blank"
-  rel="noreferrer"
->
-  <img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg"
-    width="36"
-    height="36"
-    alt="C++" />
-</a>
-
-</p>
 
 ### Latest Posts
 <p> 🚀
