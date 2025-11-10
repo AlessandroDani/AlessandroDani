@@ -1,6 +1,6 @@
 # Hi 👋 I'm Alessandro Daniele
 
- I’m a 23-year-old Systems Engineer and Full Stack Developer from Colombia
+ I’m a Systems Engineer and Full Stack Developer from Colombia
 
 ### Tech Stack
 <div align="left">
